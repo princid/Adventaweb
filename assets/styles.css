@@ -209,6 +209,7 @@ h1,h2{
 .category__header{
     text-align: center;
     color: #fff;
+    padding-bottom: 30px;
 }
 
 .category__header>p{
